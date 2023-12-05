@@ -1,0 +1,15 @@
+---
+title: "`openlinksinnewpage` Filter Example"
+format:
+  html: default
+  pdf: default
+filters:
+  - openlinksinnewpage
+---
+
+## Heading
+
+This filter adds formatting to heading text.
+
+With the `openlinksinnewpage` filter [hyperlinks](https://quarto.org/) automatically open in a new page, similarly to adding `{target="_blank"}` to your markdown hyperlinks.
+
