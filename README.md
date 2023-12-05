@@ -2,7 +2,7 @@
 
 With the `openlinksinnewpage` filter [hyperlinks](https://quarto.org/) automatically open in a new page, similarly to adding `{target="_blank"}` to your markdown hyperlinks.
 
-Packaged up as an extension following suggestion by @cscheid on a discussion [here](https://github.com/quarto-dev/quarto-cli/discussions/3169){target="_blank"}.
+Packaged up as an extension following suggestion by @cscheid on a discussion [here](https://github.com/quarto-dev/quarto-cli/discussions/3169).
 
 This provides an alternative to using the following syntax
 
