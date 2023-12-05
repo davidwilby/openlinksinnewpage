@@ -32,6 +32,9 @@ filters:
 
 All the links in your quarto document or presentation will open in a new page or tab.
 
+## Limitations
+Currently not possible to override if you want a single link to open with a `target` of `_self` for instance. Contributions welcome!
+
 ## Example
 
 Here is the source code for a minimal example: [example.qmd](example.qmd).
